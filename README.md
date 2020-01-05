@@ -1,10 +1,10 @@
-# song-vote-ppa
+# song-vote-paa-extended
 
-Ports and adapters implementation in PHP (with a little Symfony 4.1 help)
+Ports and adapters implementation in PHP (with a little Symfony 4.4 help)
 
 ## Requirements
 * composer
-* php 7.1
+* php 7.4
 
 ## Installation
 
