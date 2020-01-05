@@ -4,7 +4,7 @@ namespace App\External;
 
 class ExternalSongRepository
 {
-    private static $songs = [
+    private static array $songs = [
         1 => "Deep Purple - Smoke on the water",
         2 => "Joe Bonamassa - Sloe Gin",
         3 => "Gov't Mule - Mule",

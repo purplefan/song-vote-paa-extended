@@ -12,12 +12,12 @@ class VotingService
     /**
      * @var SongRepositoryInterface
      */
-    private $songRepository;
+    private SongRepositoryInterface $songRepository;
 
     /**
      * @var VoteRepositoryInterface
      */
-    private $voteRepository;
+    private VoteRepositoryInterface $voteRepository;
 
     /**
      * @param SongRepositoryInterface $songRepository

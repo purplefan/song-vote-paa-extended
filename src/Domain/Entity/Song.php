@@ -9,27 +9,27 @@ class Song
     /**
      * @var int
      */
-    private $id;
+    private int $id;
 
     /**
      * @var float|null
      */
-    private $score;
+    private ?float $score;
 
     /**
      * @var int
      */
-    private $songId;
+    private int $songId;
 
     /**
      * @var int
      */
-    private $votesCount = 0;
+    private int $votesCount = 0;
 
     /**
      * @var string
      */
-    private $songDetails;
+    private string $songDetails;
 
     /**
      * @param int $songId

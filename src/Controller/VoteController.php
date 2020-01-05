@@ -12,7 +12,7 @@ class VoteController
     /**
      * @var VotingService $votingService
      */
-    private $votingService;
+    private VotingService $votingService;
 
     /**
      * @param VotingService $votingService
